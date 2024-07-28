@@ -1,0 +1,601 @@
+[
+    {
+      "id": 1,
+      "name": "Stainless Steel Pots",
+      "description": "Durable and long-lasting pots.",
+      "price": 25.99,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Plastic Containers",
+      "description": "Food-grade containers.",
+      "price": 10.99,
+      "stock": 200
+    },
+    {
+      "id": 3,
+      "name": "Chef Knife",
+      "description": "High-carbon stainless steel blade.",
+      "price": 34.99,
+      "category": "utensil",
+      "brand": "big brand",
+      "material" :  "Plastic",
+      "dimesions": "6in x 4in x 2in",
+      "stock": 150
+    },
+    {
+      "id": 4,
+      "name": "Cutting Boards",
+      "description": "Non-slip, dishwasher-safe.",
+      "price": 12.99,
+      "stock": 300
+    },
+    {
+      "id": 5,
+      "name": "Mixing Bowls",
+      "description": "Set of 5, stainless steel.",
+      "price": 24.99,
+      "stock": 250
+    },
+    {
+      "id": 6,
+      "name": "Measuring Cups",
+      "description": "Set of 4, stainless steel.",
+      "price": 9.99,
+      "stock": 400
+    },
+    {
+      "id": 7,
+      "name": "Salad Spinner",
+      "description": "Large capacity, easy to use.",
+      "price": 18.99,
+      "stock": 150
+    },
+    {
+      "id": 8,
+      "name": "Grater",
+      "description": "4-sided, stainless steel.",
+      "price": 8.99,
+      "stock": 500
+    },
+    {
+      "id": 9,
+      "name": "Blender",
+      "description": "High-speed, multi-functional.",
+      "price": 49.99,
+      "stock": 120
+    },
+    {
+      "id": 10,
+      "name": "Coffee Maker",
+      "description": "12-cup programmable.",
+      "price": 39.99,
+      "stock": 180
+    },
+    {
+      "id": 11,
+      "name": "Food Processor",
+      "description": "8-cup capacity, multiple blades.",
+      "price": 69.99,
+      "stock": 90
+    },
+    {
+      "id": 12,
+      "name": "Toaster",
+      "description": "4-slice, wide slots.",
+      "price": 29.99,
+      "stock": 230
+    },
+    {
+      "id": 13,
+      "name": "Microwave Oven",
+      "description": "1000W, digital display.",
+      "price": 89.99,
+      "stock": 70
+    },
+    {
+      "id": 14,
+      "name": "Dish Rack",
+      "description": "Stainless steel, foldable.",
+      "price": 22.99,
+      "stock": 320
+    },
+    {
+      "id": 15,
+      "name": "Kitchen Scissors",
+      "description": "Heavy-duty, ergonomic.",
+      "price": 7.99,
+      "stock": 410
+    },
+    {
+      "id": 16,
+      "name": "Rolling Pin",
+      "description": "Wooden, 18 inches.",
+      "price": 14.99,
+      "stock": 190
+    },
+    {
+      "id": 17,
+      "name": "Baking Sheet",
+      "description": "Non-stick, 2-pack.",
+      "price": 15.99,
+      "stock": 280
+    },
+    {
+      "id": 18,
+      "name": "Oven Mitts",
+      "description": "Heat-resistant, pair.",
+      "price": 11.99,
+      "stock": 360
+    },
+    {
+      "id": 19,
+      "name": "Whisk",
+      "description": "Stainless steel, balloon shape.",
+      "price": 6.99,
+      "stock": 450
+    },
+    {
+      "id": 20,
+      "name": "Spatula",
+      "description": "Silicone, heat-resistant.",
+      "price": 5.99,
+      "stock": 500
+    },
+    {
+      "id": 21,
+      "name": "Garlic Press",
+      "description": "Stainless steel, easy to clean.",
+      "price": 12.99,
+      "stock": 230
+    },
+    {
+      "id": 22,
+      "name": "Can Opener",
+      "description": "Manual, ergonomic handle.",
+      "price": 9.99,
+      "stock": 320
+    },
+    {
+      "id": 23,
+      "name": "Peeler",
+      "description": "Swivel blade, ergonomic.",
+      "price": 4.99,
+      "stock": 480
+    },
+    {
+      "id": 24,
+      "name": "Colander",
+      "description": "Stainless steel, large size.",
+      "price": 13.99,
+      "stock": 270
+    },
+    {
+      "id": 25,
+      "name": "Thermometer",
+      "description": "Digital, instant read.",
+      "price": 15.99,
+      "stock": 150
+    },
+    {
+      "id": 26,
+      "name": "Meat Tenderizer",
+      "description": "Dual-sided, stainless steel.",
+      "price": 14.99,
+      "stock": 210
+    },
+    {
+      "id": 27,
+      "name": "Mandoline Slicer",
+      "description": "Adjustable blades, safety guard.",
+      "price": 29.99,
+      "stock": 140
+    },
+    {
+      "id": 28,
+      "name": "Pizza Cutter",
+      "description": "Stainless steel, ergonomic handle.",
+      "price": 8.99,
+      "stock": 370
+    },
+    {
+      "id": 29,
+      "name": "Ice Cream Scoop",
+      "description": "Heavy-duty, non-stick.",
+      "price": 7.99,
+      "stock": 390
+    },
+    {
+      "id": 30,
+      "name": "Pastry Brush",
+      "description": "Silicone, heat-resistant.",
+      "price": 5.99,
+      "stock": 410
+    },
+    {
+      "id": 31,
+      "name": "Tongs",
+      "description": "Stainless steel, locking mechanism.",
+      "price": 9.99,
+      "stock": 280
+    },
+    {
+      "id": 32,
+      "name": "Ladle",
+      "description": "Stainless steel, large capacity.",
+      "price": 11.99,
+      "stock": 260
+    },
+    {
+      "id": 33,
+      "name": "Zester",
+      "description": "Stainless steel, fine blade.",
+      "price": 7.99,
+      "stock": 450
+    },
+    {
+      "id": 34,
+      "name": "Skillet",
+      "description": "Cast iron, pre-seasoned.",
+      "price": 29.99,
+      "stock": 200
+    },
+    {
+      "id": 35,
+      "name": "Stockpot",
+      "description": "Stainless steel, 12-quart.",
+      "price": 39.99,
+      "stock": 170
+    },
+    {
+      "id": 36,
+      "name": "Saucepan",
+      "description": "Non-stick, 2-quart.",
+      "price": 19.99,
+      "stock": 260
+    },
+    {
+      "id": 37,
+      "name": "Wok",
+      "description": "Carbon steel, 14-inch.",
+      "price": 34.99,
+      "stock": 140
+    },
+    {
+      "id": 38,
+      "name": "Grill Pan",
+      "description": "Cast iron, pre-seasoned.",
+      "price": 24.99,
+      "stock": 220
+    },
+    {
+      "id": 39,
+      "name": "Dutch Oven",
+      "description": "Enamel-coated, 6-quart.",
+      "price": 59.99,
+      "stock": 110
+    },
+    {
+      "id": 40,
+      "name": "Roasting Pan",
+      "description": "Stainless steel, with rack.",
+      "price": 49.99,
+      "stock": 130
+    },
+    {
+      "id": 41,
+      "name": "Gravy Separator",
+      "description": "Plastic, 4-cup capacity.",
+      "price": 12.99,
+      "stock": 320
+    },
+    {
+      "id": 42,
+      "name": "Serving Tray",
+      "description": "Bamboo, 2-pack.",
+      "price": 16.99,
+      "stock": 250
+    },
+    {
+      "id": 43,
+      "name": "Cake Stand",
+      "description": "Glass, with dome cover.",
+      "price": 29.99,
+      "stock": 90
+    },
+    {
+      "id": 44,
+      "name": "Ice Cube Tray",
+      "description": "Silicone, 2-pack.",
+      "price": 7.99,
+      "stock": 370
+    },
+    {
+      "id": 45,
+      "name": "Salt and Pepper Grinder Set",
+      "description": "Adjustable coarseness, refillable.",
+      "price": 19.99,
+      "stock": 220
+    },
+    {
+      "id": 46,
+      "name": "Spice Rack",
+      "description": "Rotating, 20-jar capacity.",
+      "price": 34.99,
+      "stock": 140
+    },
+    {
+      "id": 47,
+      "name": "Oil Dispenser",
+      "description": "Glass, with pour spout.",
+      "price": 12.99,
+      "stock": 260
+    },
+    {
+      "id": 48,
+      "name": "Vinegar Cruet",
+      "description": "Glass, with stopper.",
+      "price": 10.99,
+      "stock": 290
+    },
+    {
+      "id": 49,
+      "name": "Mortar and Pestle",
+      "description": "Granite, 2-cup capacity.",
+      "price": 24.99,
+      "stock": 170
+    },
+    {
+      "id": 50,
+      "name": "Juicer",
+      "description": "Manual, stainless steel.",
+      "price": 14.99,
+      "stock": 310
+    },
+    {
+      "id": 51,
+      "name": "Coffee Grinder",
+      "description": "Electric, adjustable settings.",
+      "price": 39.99,
+      "stock": 130
+    },
+    {
+      "id": 52,
+      "name": "Tea Kettle",
+      "description": "Stovetop, stainless steel.",
+      "price": 29.99,
+      "stock": 180
+    },
+    {
+      "id": 53,
+      "name": "French Press",
+      "description": "Glass, 34-ounce capacity.",
+      "price": 19.99,
+      "stock": 210
+    },
+    {
+      "id": 54,
+      "name": "Electric Kettle",
+      "description": "Cordless, 1.7-liter capacity.",
+      "price": 24.99,
+      "stock": 150
+    },
+    {
+      "id": 55,
+      "name": "Milk Frother",
+      "description": "Handheld, battery-operated.",
+      "price": 12.99,
+      "stock": 340
+    },
+    {
+      "id": 56,
+      "name": "Wine Opener",
+      "description": "Electric, rechargeable.",
+      "price": 29.99,
+      "stock": 190
+    },
+    {
+      "id": 57,
+      "name": "Cork Trivet",
+      "description": "Set of 3, heat-resistant.",
+      "price": 9.99,
+      "stock": 280
+    },
+    {
+      "id": 58,
+      "name": "Pot Holders",
+      "description": "Quilted cotton, set of 2.",
+      "price": 7.99,
+      "stock": 360
+    },
+    {
+      "id": 59,
+      "name": "Dish Towels",
+      "description": "Cotton, set of 4.",
+      "price": 12.99,
+      "stock": 290
+    },
+    {
+      "id": 60,
+      "name": "Apron",
+      "description": "Adjustable, with pockets.",
+      "price": 14.99,
+      "stock": 240
+    },
+    {
+      "id": 61,
+      "name": "Spice Jars",
+      "description": "Glass, set of 12.",
+      "price": 19.99,
+      "stock": 220
+    },
+    {
+      "id": 62,
+      "name": "Food Storage Bags",
+      "description": "Reusable, silicone, set of 10.",
+      "price": 24.99,
+      "stock": 180
+    },
+    {
+      "id": 63,
+      "name": "Bread Box",
+      "description": "Stainless steel, roll-top.",
+      "price": 34.99,
+      "stock": 130
+    },
+    {
+      "id": 64,
+      "name": "Drying Mat",
+      "description": "Microfiber, absorbent.",
+      "price": 9.99,
+      "stock": 350
+    },
+    {
+      "id": 65,
+      "name": "Bento Box",
+      "description": "Leak-proof, 2 compartments.",
+      "price": 16.99,
+      "stock": 260
+    },
+    {
+      "id": 66,
+      "name": "Salad Bowl",
+      "description": "Bamboo, with servers.",
+      "price": 24.99,
+      "stock": 150
+    },
+    {
+      "id": 67,
+      "name": "Lunch Bag",
+      "description": "Insulated, with shoulder strap.",
+      "price": 19.99,
+      "stock": 230
+    },
+    {
+      "id": 68,
+      "name": "Water Bottle",
+      "description": "Stainless steel, 32-ounce.",
+      "price": 17.99,
+      "stock": 270
+    },
+    {
+      "id": 69,
+      "name": "Travel Mug",
+      "description": "Insulated, 16-ounce.",
+      "price": 14.99,
+      "stock": 190
+    },
+    {
+      "id": 70,
+      "name": "Cooler",
+      "description": "Portable, 28-quart.",
+      "price": 39.99,
+      "stock": 120
+    },
+    {
+      "id": 71,
+      "name": "Ice Pack",
+      "description": "Reusable, set of 4.",
+      "price": 9.99,
+      "stock": 340
+    },
+    {
+      "id": 72,
+      "name": "Camping Stove",
+      "description": "Portable, propane.",
+      "price": 59.99,
+      "stock": 80
+    },
+    {
+      "id": 73,
+      "name": "Picnic Blanket",
+      "description": "Waterproof, foldable.",
+      "price": 24.99,
+      "stock": 220
+    },
+    {
+      "id": 74,
+      "name": "Grill Utensils",
+      "description": "Stainless steel, set of 5.",
+      "price": 29.99,
+      "stock": 160
+    },
+    {
+      "id": 75,
+      "name": "Charcoal Grill",
+      "description": "Portable, 18-inch.",
+      "price": 49.99,
+      "stock": 100
+    },
+    {
+      "id": 76,
+      "name": "Thermal Carafe",
+      "description": "Stainless steel, 68-ounce.",
+      "price": 29.99,
+      "stock": 180
+    },
+    {
+      "id": 77,
+      "name": "Digital Scale",
+      "description": "Kitchen, 11-pound capacity.",
+      "price": 19.99,
+      "stock": 210
+    },
+    {
+      "id": 78,
+      "name": "Egg Cooker",
+      "description": "Electric, 6-egg capacity.",
+      "price": 16.99,
+      "stock": 250
+    },
+    {
+      "id": 79,
+      "name": "Rice Cooker",
+      "description": "4-cup capacity, with steamer.",
+      "price": 29.99,
+      "stock": 140
+    },
+    {
+      "id": 80,
+      "name": "Slow Cooker",
+      "description": "6-quart, programmable.",
+      "price": 49.99,
+      "stock": 110
+    },
+    {
+      "id": 81,
+      "name": "Pressure Cooker",
+      "description": "8-quart, stainless steel.",
+      "price": 69.99,
+      "stock": 90
+    },
+    {
+      "id": 82,
+      "name": "Bread Maker",
+      "description": "2-pound capacity, programmable.",
+      "price": 79.99,
+      "stock": 70
+    },
+    {
+      "id": 83,
+      "name": "Ice Maker",
+      "description": "Portable, countertop.",
+      "price": 99.99,
+      "stock": 60
+    },
+    {
+      "id": 84,
+      "name": "Water Filter Pitcher",
+      "description": "10-cup capacity, BPA-free.",
+      "price": 24.99,
+      "stock": 200
+    },
+    {
+      "id": 85,
+      "name": "Citrus Juicer",
+      "description": "Electric, 32-ounce capacity.",
+      "price": 29.99,
+      "stock": 130
+    }
+   ]
