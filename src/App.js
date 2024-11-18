@@ -13,7 +13,7 @@ const App = () => {
     // use cache when avaliable
     // lazy load the rest
     // Fetch the inventory data (for simplicity, we use local data here)
-    fetch('/inventory.json')
+    fetch(process.env.PUBLIC_URL + '/inventory.json')
       .then(response => response.json())
       .then(data => setItems(data))
       .catch(error => console.error('Error fetching inventory:', error));
@@ -23,10 +23,10 @@ const App = () => {
     <div className="flex flex-col min-h-screen">
       <Header />
       <main className="container flex-grow p-4 mx-auto">
-        <Routes>
-          <Route path="/" element={<Catalog items={items} />} />
-          <Route path="/item/:id" element={<ItemDetail items={items} />} />
-        </Routes>
+          <Routes>
+            <Route path="/" element={<Catalog items={items} />} />
+            <Route path="/item/:id" element={<ItemDetail items={items} />} />
+          </Routes>
       </main>
       <Footer />
     </div>
